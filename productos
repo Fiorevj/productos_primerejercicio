@@ -60,9 +60,5 @@ public class producto_primerejercicio {
 		System.out.println("Subtotal (sin IVA): " + Subtotal);
 		System.out.println("Total: " + total);
 		System.out.println("*****************************");
-	
-	
-	
 	}
-
 }
